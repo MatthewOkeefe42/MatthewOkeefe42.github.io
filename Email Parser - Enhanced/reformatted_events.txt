@@ -1,0 +1,284 @@
+eventName: Guided Meditation
+eventBio: 15-minue sessions led by trained facilitators, perfect for beginners!
+eventTime: 1:15 PM - 1:30 PM
+eventDate: Monday, Feb. 24
+eventDateTime: 2025-02-24T18:15:00
+eventLocation: Student Center- Interfaith Prayer Room
+xCoord: 43.03975643321055
+yCoord: -71.45383296874257
+EventImageUrl: https://campus-images.edu/interfaith-prayer-room.jpg
+
+
+eventName: Makerspace Pop-In Projects
+eventBio: NULL
+eventTime: 2:30 PM - 4:30 PM
+eventDate: Monday, Feb. 24
+eventDateTime: 2025-02-24T19:30:00
+eventLocation: Wolak Library Learning Commons- Makerspace
+xCoord: 43.03895639005512
+yCoord: -71.45193321720352
+EventImageUrl: https://campus-images.edu/wolak-makerspace.jpg
+
+
+eventName: Record Painting with Radio SNHU
+eventBio: NULL
+eventTime: 5:00 PM - 7:00 PM
+eventDate: Monday, Feb. 24
+eventDateTime: 2025-02-24T22:00:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: SNHU Scholarship Workshop
+eventBio: Applications for SNHU Scholarships for the 2025-26 academic year are open! Register to attend this workshop hosted by the Wolak Learning Center<https://click.dream.snhu.edu/?qs=01224de5b44c45f6ee37292648c6ec7c5b3570c6074e1dd8475ae808684a5795c9bc7162080146836876b2fe47ccc2c578f5d541724cbef6> to find out how to choose the right scholarship and get assistance in developing your scholarship essay.
+eventTime: 3:30 PM - 4:30 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-25T20:30:00
+eventLocation: Wolak Library Learning Commons- 204
+xCoord: 43.03895639005512
+yCoord: -71.45193321720352
+EventImageUrl: https://campus-images.edu/wolak-library.jpg
+
+
+eventName: Ultimate Coloring Bash with CAPE!
+eventBio: NULL
+eventTime: 6:00 PM - 7:00 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-25T23:00:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: Voy a llevarte pa PR "Bad Bunny"
+eventBio: NULL
+eventTime: 7:30 PM - 8:30 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-26T00:30:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: Wednesday, Feb. 26
+eventBio: Weekly Guided Meditation
+eventTime: 2:30 PM - 2:45 PM
+eventDate: Wednesday, Feb. 26
+eventDateTime: 2025-02-26T19:30:00
+eventLocation: Student Center- Interfaith Prayer Room
+xCoord: 43.03975643321055
+yCoord: -71.45383296874257
+EventImageUrl: https://campus-images.edu/interfaith-prayer-room.jpg
+
+
+eventName: Recovery City Documentary Viewing
+eventBio: Watch the Recovery City documentary, along with a live question and answer with the director and one documentary participant. Click here to sign up for the documentary screening event<https://click.dream.snhu.edu/?qs=01224de5b44c45f6e318c206ef724ab26b5a1aaccf0cd4db330c9c5f7f2eedf3cea38893d990abd90360be1d5691dfa0501f6389fb9ca942>.
+eventTime: 4:00 PM - 6:00 PM
+eventDate: Wednesday, Feb. 26
+eventDateTime: 2025-02-26T21:00:00
+eventLocation: Dining Center, Banquet Hall or Virtual
+xCoord: 43.039651320989094
+yCoord: -71.4518713963412
+EventImageUrl: https://campus-images.edu/dining-center.jpg
+
+
+eventName: Makerspace Wellness Wednesday
+eventBio: NULL
+eventTime: 4:30 PM - 5:30 PM
+eventDate: Wednesday, Feb. 26
+eventDateTime: 2025-02-26T21:30:00
+eventLocation: Wolak Library Learning Commons- Makerspace
+xCoord: 43.03895639005512
+yCoord: -71.45193321720352
+EventImageUrl: https://campus-images.edu/wolak-makerspace.jpg
+
+
+eventName: Weekly Bingo - CAPE
+eventBio: NULL
+eventTime: 8:00 PM - 9:00 PM
+eventDate: Wednesday, Feb. 26
+eventDateTime: 2025-02-27T01:00:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: Makerspace Laser Engraving Demo
+eventBio: NULL
+eventTime: 4:30 PM - 5:00 PM
+eventDate: Thursday, Feb. 27
+eventDateTime: 2025-02-27T21:30:00
+eventLocation: Wolak Library Learning Commons- Makerspace
+xCoord: 43.03895639005512
+yCoord: -71.45193321720352
+EventImageUrl: https://campus-images.edu/wolak-makerspace.jpg
+
+
+eventName: Race to Zero Waste Presents: Sustainable Bingo and Raffles
+eventBio: NULL
+eventTime: 8:00 PM - 9:00 PM
+eventDate: Thursday, Feb. 27
+eventDateTime: 2025-02-28T01:00:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: Friday, Feb. 28
+eventBio: Guided Meditation
+eventTime: 1:15 PM - 1:30 PM
+eventDate: Friday, Feb. 28
+eventDateTime: 2025-02-28T18:15:00
+eventLocation: Student Center- Interfaith Prayer Room
+xCoord: 43.03975643321055
+yCoord: -71.45383296874257
+EventImageUrl: https://campus-images.edu/interfaith-prayer-room.jpg
+
+
+eventName: ###  Monday, Feb. 24
+eventBio: **Guided Meditation**
+eventTime: 1:15 PM - 1:30 PM
+eventDate: Friday, Feb. 28
+eventDateTime: 2025-02-28T18:15:00
+eventLocation: Student Center- Interfaith Prayer Room
+xCoord: 43.03975643321055
+yCoord: -71.45383296874257
+EventImageUrl: https://campus-images.edu/interfaith-prayer-room.jpg
+
+
+eventName: 15-minue sessions led by trained facilitators, perfect for beginners!
+eventBio: 
+eventTime: 2:30 PM - 4:30 PM
+eventDate: Friday, Feb. 28
+eventDateTime: 2025-02-28T19:30:00
+eventLocation: Wolak Library Learning Commons- Makerspace
+xCoord: 43.03895639005512
+yCoord: -71.45193321720352
+EventImageUrl: https://campus-images.edu/wolak-makerspace.jpg
+
+
+eventName: **Makerspace Pop-In Projects**
+eventBio: 
+eventTime: 5:00 PM - 7:00 PM
+eventDate: Friday, Feb. 28
+eventDateTime: 2025-02-28T22:00:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: Center](https://click.dream.snhu.edu/?qs=01224de5b44c45f6ee37292648c6ec7c5b3570c6074e1dd8475ae808684a5795c9bc7162080146836876b2fe47ccc2c578f5d541724cbef6
+eventBio: find out how to choose the right scholarship and get assistance in developing
+eventTime: 3:30 PM - 4:30 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-25T20:30:00
+eventLocation: Wolak Library Learning Commons- 204
+xCoord: 43.03895639005512
+yCoord: -71.45193321720352
+EventImageUrl: https://campus-images.edu/wolak-library.jpg
+
+
+eventName: your scholarship essay.
+eventBio: 
+eventTime: 6:00 PM - 7:00 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-25T23:00:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: **Ultimate Coloring Bash with CAPE!**
+eventBio: 
+eventTime: 7:30 PM - 8:30 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-26T00:30:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: 
+eventBio: NULL
+eventTime: 2:30 PM - 2:45 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-25T19:30:00
+eventLocation: Student Center- Interfaith Prayer Room
+xCoord: 43.03975643321055
+yCoord: -71.45383296874257
+EventImageUrl: https://campus-images.edu/interfaith-prayer-room.jpg
+
+
+eventName: with the director and one documentary participant. [ Click here to sign up for
+eventBio: event](https://click.dream.snhu.edu/?qs=01224de5b44c45f6e318c206ef724ab26b5a1aaccf0cd4db330c9c5f7f2eedf3cea38893d990abd90360be1d5691dfa0501f6389fb9ca942
+eventTime: 4:00 PM - 6:00 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-25T21:00:00
+eventLocation: Dining Center, Banquet Hall or Virtual
+xCoord: 43.039651320989094
+yCoord: -71.4518713963412
+EventImageUrl: https://campus-images.edu/dining-center.jpg
+
+
+eventName: "Click here to sign up for the documentary screening event").
+eventBio: 
+eventTime: 4:30 PM - 5:30 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-25T21:30:00
+eventLocation: Wolak Library Learning Commons- Makerspace
+xCoord: 43.03895639005512
+yCoord: -71.45193321720352
+EventImageUrl: https://campus-images.edu/wolak-makerspace.jpg
+
+
+eventName: **Makerspace Wellness Wednesday**
+eventBio: 
+eventTime: 8:00 PM - 9:00 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-26T01:00:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: "Click here to register for the in-person or virtual event").
+eventBio: 
+eventTime: 4:30 PM - 5:00 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-25T21:30:00
+eventLocation: Wolak Library Learning Commons- Makerspace
+xCoord: 43.03895639005512
+yCoord: -71.45193321720352
+EventImageUrl: https://campus-images.edu/wolak-makerspace.jpg
+
+
+eventName: **Makerspace Laser Engraving Demo**
+eventBio: 
+eventTime: 8:00 PM - 9:00 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-26T01:00:00
+eventLocation: Student Center- Last Chapter Pub
+xCoord: 43.03957561167002
+yCoord: -71.45406670099402
+EventImageUrl: https://campus-images.edu/last-chapter-pub.jpg
+
+
+eventName: 
+eventBio: NULL
+eventTime: 1:15 PM - 1:30 PM
+eventDate: Tuesday, Feb. 25
+eventDateTime: 2025-02-25T18:15:00
+eventLocation: Student Center- Interfaith Prayer Room
+xCoord: 43.03975643321055
+yCoord: -71.45383296874257
+EventImageUrl: https://campus-images.edu/interfaith-prayer-room.jpg

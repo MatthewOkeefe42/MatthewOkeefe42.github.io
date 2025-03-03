@@ -1,0 +1,144 @@
+EventName: Guided Meditation
+EventDescription: 15-minue sessions led by trained facilitators, perfect for beginners!
+EventTime: Monday, Feb. 24 1:15 PM - 1:30 PM
+EventLocation: Student Center- Interfaith Prayer Room
+
+
+EventName: Makerspace Pop-In Projects
+EventDescription: NULL
+EventTime: Monday, Feb. 24 2:30 PM - 4:30 PM
+EventLocation: Wolak Library Learning Commons- Makerspace
+
+
+EventName: Record Painting with Radio SNHU
+EventDescription: NULL
+EventTime: Monday, Feb. 24 5:00 PM - 7:00 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventName: SNHU Scholarship Workshop
+EventDescription: Applications for SNHU Scholarships for the 2025-26 academic year are open! Register to attend this workshop hosted by the Wolak Learning Center<https://click.dream.snhu.edu/?qs=01224de5b44c45f6ee37292648c6ec7c5b3570c6074e1dd8475ae808684a5795c9bc7162080146836876b2fe47ccc2c578f5d541724cbef6> to find out how to choose the right scholarship and get assistance in developing your scholarship essay.
+EventTime: Tuesday, Feb. 25 3:30 PM - 4:30 PM
+EventLocation: Wolak Library Learning Commons- 204
+
+
+EventName: Ultimate Coloring Bash with CAPE!
+EventDescription: NULL
+EventTime: Tuesday, Feb. 25 6:00 PM - 7:00 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventName: Voy a llevarte pa PR "Bad Bunny"
+EventDescription: NULL
+EventTime: Tuesday, Feb. 25 7:30 PM - 8:30 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventName: Wednesday, Feb. 26
+EventDescription: Weekly Guided Meditation
+EventTime: Wednesday, Feb. 26 2:30 PM - 2:45 PM
+EventLocation: Student Center- Interfaith Prayer Room
+
+
+EventName: Recovery City Documentary Viewing
+EventDescription: Watch the Recovery City documentary, along with a live question and answer with the director and one documentary participant. Click here to sign up for the documentary screening event<https://click.dream.snhu.edu/?qs=01224de5b44c45f6e318c206ef724ab26b5a1aaccf0cd4db330c9c5f7f2eedf3cea38893d990abd90360be1d5691dfa0501f6389fb9ca942>.
+EventTime: Wednesday, Feb. 26 4:00 PM - 6:00 PM
+EventLocation: Dining Center, Banquet Hall or Virtual
+
+
+EventName: Makerspace Wellness Wednesday
+EventDescription: NULL
+EventTime: Wednesday, Feb. 26 4:30 PM - 5:30 PM
+EventLocation: Wolak Library Learning Commons- Makerspace
+
+
+EventName: Weekly Bingo - CAPE
+EventDescription: NULL
+EventTime: Wednesday, Feb. 26 8:00 PM - 9:00 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventName: Makerspace Laser Engraving Demo
+EventDescription: NULL
+EventTime: Thursday, Feb. 27 4:30 PM - 5:00 PM
+EventLocation: Wolak Library Learning Commons- Makerspace
+
+
+EventName: Race to Zero Waste Presents: Sustainable Bingo and Raffles
+EventDescription: NULL
+EventTime: Thursday, Feb. 27 8:00 PM - 9:00 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventName: Friday, Feb. 28
+EventDescription: Guided Meditation
+EventTime: Friday, Feb. 28 1:15 PM - 1:30 PM
+EventLocation: Student Center- Interfaith Prayer Room
+
+
+EventName: ###  Monday, Feb. 24
+EventDescription: **Guided Meditation**
+EventTime: Friday, Feb. 28 1:15 PM - 1:30 PM
+EventLocation: Student Center- Interfaith Prayer Room
+
+
+EventName: 15-minue sessions led by trained facilitators, perfect for beginners!
+EventTime: Friday, Feb. 28 2:30 PM - 4:30 PM
+EventLocation: Wolak Library Learning Commons- Makerspace
+
+
+EventName: **Makerspace Pop-In Projects**
+EventTime: Friday, Feb. 28 5:00 PM - 7:00 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventName: Center](https://click.dream.snhu.edu/?qs=01224de5b44c45f6ee37292648c6ec7c5b3570c6074e1dd8475ae808684a5795c9bc7162080146836876b2fe47ccc2c578f5d541724cbef6
+EventDescription: find out how to choose the right scholarship and get assistance in developing
+EventTime: Tuesday, Feb. 25 3:30 PM - 4:30 PM
+EventLocation: Wolak Library Learning Commons- 204
+
+
+EventName: your scholarship essay.
+EventTime: Tuesday, Feb. 25 6:00 PM - 7:00 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventName: **Ultimate Coloring Bash with CAPE!**
+EventTime: Tuesday, Feb. 25 7:30 PM - 8:30 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventDescription: NULL
+EventTime: Tuesday, Feb. 25 2:30 PM - 2:45 PM
+EventLocation: Student Center- Interfaith Prayer Room
+
+
+EventName: with the director and one documentary participant. [ Click here to sign up for
+EventDescription: event](https://click.dream.snhu.edu/?qs=01224de5b44c45f6e318c206ef724ab26b5a1aaccf0cd4db330c9c5f7f2eedf3cea38893d990abd90360be1d5691dfa0501f6389fb9ca942
+EventTime: Tuesday, Feb. 25 4:00 PM - 6:00 PM
+EventLocation: Dining Center, Banquet Hall or Virtual
+
+
+EventName: "Click here to sign up for the documentary screening event").
+EventTime: Tuesday, Feb. 25 4:30 PM - 5:30 PM
+EventLocation: Wolak Library Learning Commons- Makerspace
+
+
+EventName: **Makerspace Wellness Wednesday**
+EventTime: Tuesday, Feb. 25 8:00 PM - 9:00 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventName: "Click here to register for the in-person or virtual event").
+EventTime: Tuesday, Feb. 25 4:30 PM - 5:00 PM
+EventLocation: Wolak Library Learning Commons- Makerspace
+
+
+EventName: **Makerspace Laser Engraving Demo**
+EventTime: Tuesday, Feb. 25 8:00 PM - 9:00 PM
+EventLocation: Student Center- Last Chapter Pub
+
+
+EventDescription: NULL
+EventTime: Tuesday, Feb. 25 1:15 PM - 1:30 PM
+EventLocation: Student Center- Interfaith Prayer Room
